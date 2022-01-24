@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+<!--
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
+
+Z. Gu, **Y. Yang**, J. Duan, SE. Li, J. Chen, W. Cao, S. Zheng, "Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty", IEEE International Intelligent Transportation Systems Conference (ITSC), 2021.
