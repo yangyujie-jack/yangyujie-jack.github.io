@@ -17,4 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 
-Z. Gu, **Y. Yang**, J. Duan, SE. Li, J. Chen, W. Cao, S. Zheng, "Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty", IEEE International Intelligent Transportation Systems Conference (ITSC), 2021.
+- Z. Gu, **Y. Yang**, J. Duan, SE. Li, J. Chen, W. Cao, S. Zheng, "Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty", IEEE International Intelligent Transportation Systems Conference (ITSC), 2021.
+- **Y. Yang**, J. Hu, J. Zhu, Y. Zhang, "Linear Stability Analysis of a General Car-Following Model in Vehicle Platoon", COTA International Conference of Transportation Professionals (CICTP), 2020.
+
+- J. Zhu, J. Hu, M. Shi, **Y. Yang**, Y. Zhang, "Emergency Cooperative Lane Changing Strategy Based on V2V Communication", COTA International Conference of Transportation Professionals (CICTP), 2020.
