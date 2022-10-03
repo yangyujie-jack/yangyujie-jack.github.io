@@ -19,6 +19,8 @@ author_profile: true
 
 **Y. Yang**, J. Chen, SE. Li, "Learning POMDP Models with Similarity Space Regularization: a Linear Gaussian Case Study", Learning for Dynamics and Control (L4DC), 2022.
 
+Y. Zhang, Y. Mu, S. Li, Y. Ren, L. Tang, **Y. Yang** and **C. Chen**, "Steadily Learn to Drive with Virtual Memory", International Society for Terrain Vehicle Systems (ISTVS), 2022.
+
 Z. Gu, **Y. Yang**, J. Duan, SE. Li, J. Chen, W. Cao, S. Zheng, "Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty", IEEE International Intelligent Transportation Systems Conference (ITSC), 2021.
 
 **Y. Yang**, J. Hu, J. Zhu, Y. Zhang, "Linear Stability Analysis of a General Car-Following Model in Vehicle Platoon", COTA International Conference of Transportation Professionals (CICTP), 2020.
