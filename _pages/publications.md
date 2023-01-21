@@ -17,12 +17,14 @@ author_profile: true
 {% endfor %}
 -->
 
-**Y. Yang**, J. Chen, SE. Li, "Learning POMDP Models with Similarity Space Regularization: a Linear Gaussian Case Study", Learning for Dynamics and Control (L4DC), 2022.
+**Y. Yang**, Y. Jiang, Y. Liu, J. Chen and SE. Li, "Model-Free Safe Reinforcement Learning through Neural Barrier Certificate," IEEE Robotics and Automation Letters (**RA-L**), 2023.
 
-Y. Zhang, Y. Mu, S. Li, Y. Ren, L. Tang, **Y. Yang** and C. Chen, "Steadily Learn to Drive with Virtual Memory", International Society for Terrain Vehicle Systems (ISTVS), 2022.
+**Y. Yang**, J. Chen, SE. Li, "Learning POMDP Models with Similarity Space Regularization: a Linear Gaussian Case Study", Learning for Dynamics and Control (**L4DC**), 2022.
 
-Z. Gu, **Y. Yang**, J. Duan, SE. Li, J. Chen, W. Cao, S. Zheng, "Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty", IEEE International Intelligent Transportation Systems Conference (ITSC), 2021.
+Y. Zhang, Y. Mu, S. Li, Y. Ren, L. Tang, **Y. Yang** and C. Chen, "Steadily Learn to Drive with Virtual Memory", International Society for Terrain Vehicle Systems (**ISTVS**), 2022.
 
-**Y. Yang**, J. Hu, J. Zhu, Y. Zhang, "Linear Stability Analysis of a General Car-Following Model in Vehicle Platoon", COTA International Conference of Transportation Professionals (CICTP), 2020.
+Z. Gu, **Y. Yang**, J. Duan, SE. Li, J. Chen, W. Cao, S. Zheng, "Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty", IEEE International Intelligent Transportation Systems Conference (**ITSC**), 2021.
 
-J. Zhu, J. Hu, M. Shi, **Y. Yang**, Y. Zhang, "Emergency Cooperative Lane Changing Strategy Based on V2V Communication", COTA International Conference of Transportation Professionals (CICTP), 2020.
+**Y. Yang**, J. Hu, J. Zhu, Y. Zhang, "Linear Stability Analysis of a General Car-Following Model in Vehicle Platoon", COTA International Conference of Transportation Professionals (**CICTP**), 2020.
+
+J. Zhu, J. Hu, M. Shi, **Y. Yang**, Y. Zhang, "Emergency Cooperative Lane Changing Strategy Based on V2V Communication", COTA International Conference of Transportation Professionals (**CICTP**), 2020.
