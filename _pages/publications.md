@@ -21,7 +21,7 @@ author_profile: true
 
 <!-- **Yang, Y.**, Jiang, Y., Chen, J., Li, S. E., Gu, Z., Yin, Y., Zhang, Q., & Yu, K. (2023). Belief state actor-critic algorithm from separation principle for pomdp. 2023 American Control Conference (ACC). -->
 
-Wang, W., Zhang, Y., Gao, J., Jiang, **Y., Yang**, Y., Zheng, Z., Zou, W., Li, J., Zhang, C., Cao, W., et al. (2023). Gops: A general optimal control problem solver for autonomous driving and industrial control applications. *Communications in Transportation Research*, *3*, 100096.
+Wang, W., Zhang, Y., Gao, J., Jiang, Y., **Yang, Y.**, Zheng, Z., ... & Li, S. E. (2023). GOPS: A general optimal control problem solver for autonomous driving and industrial control applications. *Communications in Transportation Research*, *3*, 100096.
 
 **Yang, Y.**, Chen, J., & Li, S. (2022). Learning pomdp models with similarity space regularization: A linear gaussian case study. *Learning for Dynamics and Control Conference*, 330–341.
 
