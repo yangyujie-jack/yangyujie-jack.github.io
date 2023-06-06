@@ -28,3 +28,7 @@ Wang, W., Zhang, Y., Gao, J., Jiang, **Y., Yang**, Y., Zheng, Z., Zou, W., Li, J
 Gu, Z., **Yang, Y.**, Duan, J., Li, S. E., Chen, J., Cao, W., & Zheng, S. (2021). Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty. *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)*, 586–592.
 
 Zhang, Y., Mu, Y., Li, S. E., Ren, Y., Tang, L., **Yang, Y.**, & Chen, C. (2021). Steadily learn to drive with virtual memory. *11th Asia-Pacific Regional Conference of the ISTVS*.
+
+**Yang, Y.**, Hu, J., Zhu, J., & Zhang, Y. (2020). Linear Stability Analysis of a General Car-Following Model in Vehicle Platoon. In *CICTP 2020* (pp. 763-775).
+
+Zhu, J., Hu, J., Shi, M., **Yang, Y.**, & Zhang, Y. (2020). Emergency Cooperative Lane Changing Strategy Based on V2V Communication. In *CICTP 2020* (pp. 511-521).
