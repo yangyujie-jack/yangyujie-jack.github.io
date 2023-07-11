@@ -19,13 +19,13 @@ author_profile: true
 
 **Yang, Y.**, Jiang, Y., Liu, Y., Chen, J., & Li, S. E. (2023). Model-free safe reinforcement learning through neural barrier certificate. *IEEE Robotics and Automation Letters*, *8*(3), 1295–1302.
 
-<!-- **Yang, Y.**, Jiang, Y., Chen, J., Li, S. E., Gu, Z., Yin, Y., Zhang, Q., & Yu, K. (2023). Belief state actor-critic algorithm from separation principle for pomdp. 2023 American Control Conference (ACC). -->
+**Yang, Y.**, Jiang, Y., Chen, J., Li, S. E., Gu, Z., Yin, Y., ... & Yu, K. (2023, May). Belief State Actor-Critic Algorithm from Separation Principle for POMDP. In *2023 American Control Conference (ACC)* (pp. 2560-2567). IEEE.
 
 Wang, W., Zhang, Y., Gao, J., Jiang, Y., **Yang, Y.**, Zheng, Z., ... & Li, S. E. (2023). GOPS: A general optimal control problem solver for autonomous driving and industrial control applications. *Communications in Transportation Research*, *3*, 100096.
 
-**Yang, Y.**, Chen, J., & Li, S. (2022). Learning pomdp models with similarity space regularization: A linear gaussian case study. *Learning for Dynamics and Control Conference*, 330–341.
+**Yang, Y.**, Chen, J., & Li, S. (2022, May). Learning pomdp models with similarity space regularization: A linear gaussian case study. In *Learning for Dynamics and Control Conference* (pp. 330-341). PMLR.
 
-Gu, Z., **Yang, Y.**, Duan, J., Li, S. E., Chen, J., Cao, W., & Zheng, S. (2021). Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty. *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)*, 586–592.
+Gu, Z., **Yang, Y.**, Duan, J., Li, S. E., Chen, J., Cao, W., & Zheng, S. (2021, September). Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty. In *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)* (pp. 586-592). IEEE.
 
 Zhang, Y., Mu, Y., Li, S. E., Ren, Y., Tang, L., **Yang, Y.**, & Chen, C. (2021). Steadily learn to drive with virtual memory. *11th Asia-Pacific Regional Conference of the ISTVS*.
 
