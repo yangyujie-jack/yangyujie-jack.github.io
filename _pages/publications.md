@@ -17,6 +17,8 @@ author_profile: true
 {% endfor %}
 -->
 
+**Yang, Y.**, Zhang, Y., Zou, W., Chen, J., Yin, Y. & Li, S. E. (2023). Synthesizing Control Barrier Functions With Feasible Region Iteration for Safe Reinforcement Learning. In *IEEE Transactions on Automatic Control*.
+
 **Yang, Y.**, Jiang, Y., Liu, Y., Chen, J., & Li, S. E. (2023). Model-free safe reinforcement learning through neural barrier certificate. *IEEE Robotics and Automation Letters*, *8*(3), 1295–1302.
 
 **Yang, Y.**, Jiang, Y., Chen, J., Li, S. E., Gu, Z., Yin, Y., ... & Yu, K. (2023, May). Belief State Actor-Critic Algorithm from Separation Principle for POMDP. In *2023 American Control Conference (ACC)* (pp. 2560-2567). IEEE.
