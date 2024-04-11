@@ -17,7 +17,9 @@ author_profile: true
 {% endfor %}
 -->
 
-**Yang, Y.**, Zhang, Y., Zou, W., Chen, J., Yin, Y. & Li, S. E. (2023). Synthesizing Control Barrier Functions With Feasible Region Iteration for Safe Reinforcement Learning. In *IEEE Transactions on Automatic Control*.
+**Yang, Y.**, Zhang, Y., Zou, W., Chen, J., Yin, Y. & Li, S. E. (2023). Synthesizing Control Barrier Functions With Feasible Region Iteration for Safe Reinforcement Learning. In *IEEE Transactions on Automatic Control*, *69*(4), 2713-2720.
+
+Zheng, Y., Li, J., Yu, D., **Yang, Y.**, Li, S. E., Zhan, X., & Liu, J. (2023, October). Feasibility-Guided Safe Offline Reinforcement Learning. In *The Twelfth International Conference on Learning Representations*.
 
 Yu, D., Zou, W., **Yang, Y.**, Ma, H., Li, S. E., Yin. Y, Chen, J. Duan, J. (2023). Safe Model-Based Reinforcement Learning With an Uncertainty-Aware Reachability Certificate. In *IEEE Transactions on Automation Science and Engineering*.
 
