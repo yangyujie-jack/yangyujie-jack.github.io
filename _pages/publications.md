@@ -18,7 +18,7 @@ author_profile: true
 -->
 
 **Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**\
-Yinan Zheng*, Jianxiong Li*, Dongjie Yu, Yujie Yang, Shengbo Eben Li, Xianyuan Zhan, Jingjing Liu\
+Yinan Zheng\*, Jianxiong Li\*, Dongjie Yu, Yujie Yang, Shengbo Eben Li, Xianyuan Zhan, Jingjing Liu\
 *International Conference on Learning Representations (ICLR)*, 2024\
 [paper](https://arxiv.org/abs/2401.10700) |
 [website](https://zhengyinan-air.github.io/FISOR/) |
@@ -30,13 +30,13 @@ Yujie Yang, Yuhang Zhang, Wenjun Zou, Jianyu Chen, Yuming Yin, Shengbo Eben Li\
 [paper](https://ieeexplore.ieee.org/document/10328440)
 
 **Model-free safe reinforcement learning through neural barrier certificate**\
-Yujie Yang*, Yuxuan Jiang*, Yichen Liu, Jianyu Chen, Shengbo Eben Li\
+Yujie Yang\*, Yuxuan Jiang\*, Yichen Liu, Jianyu Chen, Shengbo Eben Li\
 *IEEE Robotics and Automation Letters*, 2023\
 [paper](https://ieeexplore.ieee.org/document/10023989) |
 [code](https://github.com/jjyyxx/srlnbc)
 
 **Safe Model-Based Reinforcement Learning With an Uncertainty-Aware Reachability Certificate**\
-Dongjie Yu*, Wenjun Zou*, Yujie Yang*, Haitong Ma, Li, Shengbo Eben Li, Yuming Yin, Jianyu Chen, Jingliang Duan\
+Dongjie Yu\*, Wenjun Zou\*, Yujie Yang\*, Haitong Ma, Li, Shengbo Eben Li, Yuming Yin, Jianyu Chen, Jingliang Duan\
 *IEEE Transactions on Automation Science and Engineering*, 2023\
 [paper](https://ieeexplore.ieee.org/document/10329343) |
 [code](https://github.com/ManUtdMoon/Distributional-Reachability-Policy-Optimization)
