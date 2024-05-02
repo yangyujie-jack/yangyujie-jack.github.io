@@ -19,12 +19,12 @@ author_profile: true
 
 **The Feasibility of Constrained Reinforcement Learning Algorithms: A Tutorial Study**\
 Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li, Masayoshi Tomizuka, Changliu Liu\
-2024\
+Preprint, 2024\
 [paper](https://arxiv.org/abs/2404.10064)
 
 **On the Stability of Datatic Control Systems**\
 Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li\
-2024\
+Preprint, 2024\
 [paper](https://arxiv.org/abs/2401.16793)
 
 **Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**\
