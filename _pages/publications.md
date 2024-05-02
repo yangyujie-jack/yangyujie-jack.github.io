@@ -17,24 +17,63 @@ author_profile: true
 {% endfor %}
 -->
 
-**Yang, Y.**, Zhang, Y., Zou, W., Chen, J., Yin, Y. & Li, S. E. (2023). Synthesizing Control Barrier Functions With Feasible Region Iteration for Safe Reinforcement Learning. In *IEEE Transactions on Automatic Control*, *69*(4), 2713-2720.
+**Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**\
+Yinan Zheng*, Jianxiong Li*, Dongjie Yu, Yujie Yang, Shengbo Eben Li, Xianyuan Zhan, Jingjing Liu\
+*International Conference on Learning Representations (ICLR)*, 2024\
+[paper](https://arxiv.org/abs/2401.10700) |
+[website](https://zhengyinan-air.github.io/FISOR/) |
+[code](https://github.com/ZhengYinan-AIR/FISOR)
 
-Zheng, Y., Li, J., Yu, D., **Yang, Y.**, Li, S. E., Zhan, X., & Liu, J. (2023, October). Feasibility-Guided Safe Offline Reinforcement Learning. In *The Twelfth International Conference on Learning Representations*.
+**Synthesizing Control Barrier Functions With Feasible Region Iteration for Safe Reinforcement Learning**\
+Yujie Yang, Yuhang Zhang, Wenjun Zou, Jianyu Chen, Yuming Yin, Shengbo Eben Li\
+*IEEE Transactions on Automatic Control*, 2023\
+[paper](https://ieeexplore.ieee.org/document/10328440)
 
-Yu, D., Zou, W., **Yang, Y.**, Ma, H., Li, S. E., Yin. Y, Chen, J. Duan, J. (2023). Safe Model-Based Reinforcement Learning With an Uncertainty-Aware Reachability Certificate. In *IEEE Transactions on Automation Science and Engineering*.
+**Model-free safe reinforcement learning through neural barrier certificate**\
+Yujie Yang*, Yuxuan Jiang*, Yichen Liu, Jianyu Chen, Shengbo Eben Li\
+*IEEE Robotics and Automation Letters*, 2023\
+[paper](https://ieeexplore.ieee.org/document/10023989) |
+[code](https://github.com/jjyyxx/srlnbc)
 
-**Yang, Y.**, Jiang, Y., Liu, Y., Chen, J., & Li, S. E. (2023). Model-free safe reinforcement learning through neural barrier certificate. *IEEE Robotics and Automation Letters*, *8*(3), 1295–1302.
+**Safe Model-Based Reinforcement Learning With an Uncertainty-Aware Reachability Certificate**\
+Dongjie Yu*, Wenjun Zou*, Yujie Yang*, Haitong Ma, Li, Shengbo Eben Li, Yuming Yin, Jianyu Chen, Jingliang Duan\
+*IEEE Transactions on Automation Science and Engineering*, 2023\
+[paper](https://ieeexplore.ieee.org/document/10329343) |
+[code](https://github.com/ManUtdMoon/Distributional-Reachability-Policy-Optimization)
 
-**Yang, Y.**, Jiang, Y., Chen, J., Li, S. E., Gu, Z., Yin, Y., ... & Yu, K. (2023, May). Belief State Actor-Critic Algorithm from Separation Principle for POMDP. In *2023 American Control Conference (ACC)* (pp. 2560-2567). IEEE.
+**Belief State Actor-Critic Algorithm from Separation Principle for POMDP**\
+Yujie Yang, Yuxuan Jiang, Jianyu Chen, Shengbo Eben Li, Ziqing Gu, Yuming Yin, Qian Zhang, Kai Yu\
+*American Control Conference (ACC)*, 2023\
+[paper](https://ieeexplore.ieee.org/document/10155792)
 
-Wang, W., Zhang, Y., Gao, J., Jiang, Y., **Yang, Y.**, Zheng, Z., ... & Li, S. E. (2023). GOPS: A general optimal control problem solver for autonomous driving and industrial control applications. *Communications in Transportation Research*, *3*, 100096.
+**GOPS: A general optimal control problem solver for autonomous driving and industrial control applications**\
+Wenxuan Wang, Yuhang Zhang, Jiaxin Gao, Yuxuan Jiang, Yujie Yang, Zhilong Zheng, Wenjun Zou, Jie Li, Congsheng Zhang, Wenhan Cao, Genjin Xie, Jingliang Duan, Shengbo Eben Li\
+*Communications in Transportation Research*, 2023\
+[paper](https://www.sciencedirect.com/science/article/pii/S2772424723000070) |
+[website](https://gops.readthedocs.io/) |
+[code](https://github.com/Intelligent-Driving-Laboratory/GOPS)
 
-**Yang, Y.**, Chen, J., & Li, S. (2022, May). Learning pomdp models with similarity space regularization: A linear gaussian case study. In *Learning for Dynamics and Control Conference* (pp. 330-341). PMLR.
+**Learning pomdp models with similarity space regularization: A linear gaussian case study**\
+Yujie Yang, Jianyu Chen, Shengbo Eben Li\
+*Learning for Dynamics and Control Conference (L4DC)*, 2022\
+[paper](https://proceedings.mlr.press/v168/yang22a.html)
 
-Gu, Z., **Yang, Y.**, Duan, J., Li, S. E., Chen, J., Cao, W., & Zheng, S. (2021, September). Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty. In *2021 IEEE International Intelligent Transportation Systems Conference (ITSC)* (pp. 586-592). IEEE.
+**Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty**\
+Ziqing Gu, Yujie Yang, Jingliang Duan, Shengbo Eben Li, Jianyu Chen, Wenhan Cao, Sifa Zheng\
+*IEEE International Intelligent Transportation Systems Conference (ITSC)*, 2021\
+[paper](https://ieeexplore.ieee.org/document/9564576)
 
-Zhang, Y., Mu, Y., Li, S. E., Ren, Y., Tang, L., **Yang, Y.**, & Chen, C. (2021). Steadily learn to drive with virtual memory. *11th Asia-Pacific Regional Conference of the ISTVS*.
+**Steadily learn to drive with virtual memory**\
+Yuhang Zhang, Yao Mu, Shengbo Li, Yangang Ren, Liye Tang, Yujie Yang, and Chen Chen\
+*Asia-Pacific Regional Conference of the ISTVS*, 2021\
+[paper](https://arxiv.org/abs/2102.08072)
 
-**Yang, Y.**, Hu, J., Zhu, J., & Zhang, Y. (2020). Linear Stability Analysis of a General Car-Following Model in Vehicle Platoon. In *CICTP 2020* (pp. 763-775).
+**Linear Stability Analysis of a General Car-Following Model in Vehicle Platoon**\
+Yujie Yang, Jianming Hu, Jiangtong Zhu, Yi Zhang\
+*COTA International Conference of Transportation Professionals (CICTP)*, 2020\
+[paper](https://ascelibrary.org/doi/10.1061/9780784482933.066)
 
-Zhu, J., Hu, J., Shi, M., **Yang, Y.**, & Zhang, Y. (2020). Emergency Cooperative Lane Changing Strategy Based on V2V Communication. In *CICTP 2020* (pp. 511-521).
+**Emergency Cooperative Lane Changing Strategy Based on V2V Communication**\
+Jiangtong Zhu, Jianming Hu, Meng Shi, Yujie Yang, Yi Zhang\
+*COTA International Conference of Transportation Professionals (CICTP)*, 2020\
+[paper](https://ascelibrary.org/doi/10.1061/9780784483053.044)
