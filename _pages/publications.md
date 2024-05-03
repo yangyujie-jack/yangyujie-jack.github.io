@@ -29,6 +29,11 @@ Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li\
 *Preprint*, 2024\
 [paper](https://arxiv.org/abs/2401.16793)
 
+**Feasible Policy Iteration**\
+Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li, Jingliang Duan, Jingjing Liu, Xianyuan Zhan, Ya-Qin Zhang\
+*Preprint*, 2024\
+[paper](https://arxiv.org/abs/2304.08845)
+
 **Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model**\
 Yinan Zheng\*, Jianxiong Li\*, Dongjie Yu, Yujie Yang, Shengbo Eben Li, Xianyuan Zhan, Jingjing Liu\
 *International Conference on Learning Representations (ICLR)*, 2024\
