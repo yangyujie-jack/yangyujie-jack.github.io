@@ -44,7 +44,9 @@ Yinan Zheng\*, Jianxiong Li\*, Dongjie Yu, Yujie Yang, Shengbo Eben Li, Xianyuan
 **Synthesizing Control Barrier Functions With Feasible Region Iteration for Safe Reinforcement Learning**\
 Yujie Yang, Yuhang Zhang, Wenjun Zou, Jianyu Chen, Yuming Yin, Shengbo Eben Li\
 *IEEE Transactions on Automatic Control*, 2023\
-[paper](https://ieeexplore.ieee.org/document/10328440)
+[paper](https://ieeexplore.ieee.org/document/10328440) |
+[website](https://yangyujie-jack.github.io/Feasible-Region-Iteration/) |
+[code](https://github.com/yangyujie-jack/Feasible-Region-Iteration)
 
 **Model-free safe reinforcement learning through neural barrier certificate**\
 Yujie Yang\*, Yuxuan Jiang\*, Yichen Liu, Jianyu Chen, Shengbo Eben Li\
