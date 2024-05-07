@@ -52,6 +52,7 @@ Yujie Yang, Yuhang Zhang, Wenjun Zou, Jianyu Chen, Yuming Yin, Shengbo Eben Li\
 Yujie Yang\*, Yuxuan Jiang\*, Yichen Liu, Jianyu Chen, Shengbo Eben Li\
 *IEEE Robotics and Automation Letters*, 2023\
 [paper](https://ieeexplore.ieee.org/document/10023989) |
+[website](https://jjyyxx.github.io/srlnbc/) |
 [code](https://github.com/jjyyxx/srlnbc)
 
 **Safe Model-Based Reinforcement Learning With an Uncertainty-Aware Reachability Certificate**\
