@@ -77,6 +77,11 @@ Dongjie Yu\*, Wenjun Zou\*, Yujie Yang\*, Haitong Ma, Li, Shengbo Eben Li, Yumin
 [paper](https://ieeexplore.ieee.org/document/10329343) |
 [code](https://github.com/ManUtdMoon/Distributional-Reachability-Policy-Optimization)
 
+**Safe Reinforcement Learning with Dual Robustness**\
+Zeyang Li, Chuxiong Hu, Yunan Wang, Yujie Yang, Shengbo Eben Li\
+*Preprint*, 2023\
+[paper](https://arxiv.org/abs/2309.06835)
+
 **Belief State Actor-Critic Algorithm from Separation Principle for POMDP**\
 Yujie Yang, Yuxuan Jiang, Jianyu Chen, Shengbo Eben Li, Ziqing Gu, Yuming Yin, Qian Zhang, Kai Yu\
 *American Control Conference (ACC)*, 2023\
