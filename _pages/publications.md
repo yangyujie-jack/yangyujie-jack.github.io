@@ -17,12 +17,28 @@ author_profile: true
 {% endfor %}
 -->
 
+**Feasible Reachable Policy Iteration**\
+Shentao Qin\*, Yujie Yang\*, Yao Mu\*, Jie Li, Wenjun Zou, Shengbo Eben Li, Jingliang Duan\
+*International Conference on Machine Learning (ICML)*, 2024\
+[paper](https://openreview.net/forum?id=ks8qSwkkuZ)
+
+**Controllability Test for Nonlinear Datatic Systems**\
+Yujie Yang\*, Letian Tao\*, Likun Wang, Shengbo Eben Li\
+*Preprint*, 2024\
+[paper](https://arxiv.org/abs/2405.09317)
+
 **The Feasibility of Constrained Reinforcement Learning Algorithms: A Tutorial Study**\
 Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li, Masayoshi Tomizuka, Changliu Liu\
 *Preprint*, 2024\
 [paper](https://arxiv.org/abs/2404.10064) |
 [website](https://yangyujie-jack.github.io/Feasibility-Tutorial/) |
 [code](https://github.com/yangyujie-jack/Feasibility-Tutorial)
+
+**Policy Bifurcation in Safe Reinforcement Learning**\
+Wenjun Zou, Yao Lyu, Jie Li, Yujie Yang, Shengbo Eben Li, Jingliang Duan, Xianyuan Zhan, Jingjing Liu, Yaqin Zhang, Keqiang Li\
+*Preprint*, 2024\
+[paper](https://arxiv.org/abs/2403.12847) |
+[code](https://github.com/THUzouwenjun/MUPO)
 
 **On the Stability of Datatic Control Systems**\
 Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li\
