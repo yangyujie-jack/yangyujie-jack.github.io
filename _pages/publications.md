@@ -17,6 +17,12 @@ author_profile: true
 {% endfor %}
 -->
 
+**Rocket Landing Control with Random Annealing Jump Start Reinforcement Learning**\
+Yuxuan Jiang, Yujie Yang, Zhiqian Lan, Guojian Zhan, Shengbo Eben Li, Qi Sun, Jian Ma, Tianwen Yu, Changwu Zhang\
+*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024\
+**Oral presentation**\
+[paper](https://arxiv.org/abs/2407.15083)
+
 **Feasible Reachable Policy Iteration**\
 Shentao Qin\*, Yujie Yang\*, Yao Mu\*, Jie Li, Wenjun Zou, Shengbo Eben Li, Jingliang Duan\
 *International Conference on Machine Learning (ICML)*, 2024\
