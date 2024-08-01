@@ -17,6 +17,12 @@ author_profile: true
 {% endfor %}
 -->
 
+**Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis**\
+Yujie Yang, Hanjiang Hu, Tianhao Wei, Shengbo Eben Li, Changliu Liu\
+*Preprint*, 2024\
+[paper](https://arxiv.org/abs/2407.20532)\
+[code](https://github.com/intelligent-control-lab/Cersyve.jl)
+
 **Rocket Landing Control with Random Annealing Jump Start Reinforcement Learning**\
 Yuxuan Jiang, Yujie Yang, Zhiqian Lan, Guojian Zhan, Shengbo Eben Li, Qi Sun, Jian Ma, Tianwen Yu, Changwu Zhang\
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024\
