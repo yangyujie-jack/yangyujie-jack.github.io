@@ -23,6 +23,16 @@ Yujie Yang, Hanjiang Hu, Tianhao Wei, Shengbo Eben Li, Changliu Liu\
 [paper](https://arxiv.org/abs/2407.20532)\
 [code](https://github.com/intelligent-control-lab/Cersyve.jl)
 
+**CIDC: A Flexible Formation Control Framework for Intelligent Connected Vehicles**\
+Jiaxin Gao, Shaosong Li, Yao Lyu, Yuxuan Jiang, Guojian Zhan, Yujie Yang, Yuming Yin, Mingming Wang, Shengbo Eben Li\
+*IEEE Transactions on Intelligent Vehicles*, 2024\
+[paper](https://ieeexplore.ieee.org/document/10640283)
+
+**Safe Reinforcement Learning with Dual Robustness**\
+Zeyang Li, Chuxiong Hu, Yunan Wang, Yujie Yang, Shengbo Eben Li\
+*IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2024\
+[paper](https://arxiv.org/abs/2309.06835)
+
 **Rocket Landing Control with Random Annealing Jump Start Reinforcement Learning**\
 Yuxuan Jiang, Yujie Yang, Zhiqian Lan, Guojian Zhan, Shengbo Eben Li, Qi Sun, Jian Ma, Tianwen Yu, Changwu Zhang\
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024\
@@ -88,11 +98,6 @@ Dongjie Yu\*, Wenjun Zou\*, Yujie Yang\*, Haitong Ma, Li, Shengbo Eben Li, Yumin
 *IEEE Transactions on Automation Science and Engineering*, 2023\
 [paper](https://ieeexplore.ieee.org/document/10329343) |
 [code](https://github.com/ManUtdMoon/Distributional-Reachability-Policy-Optimization)
-
-**Safe Reinforcement Learning with Dual Robustness**\
-Zeyang Li, Chuxiong Hu, Yunan Wang, Yujie Yang, Shengbo Eben Li\
-*Preprint*, 2023\
-[paper](https://arxiv.org/abs/2309.06835)
 
 **Belief State Actor-Critic Algorithm from Separation Principle for POMDP**\
 Yujie Yang, Yuxuan Jiang, Jianyu Chen, Shengbo Eben Li, Ziqing Gu, Yuming Yin, Qian Zhang, Kai Yu\
