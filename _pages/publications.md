@@ -20,8 +20,14 @@ author_profile: true
 **Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis**\
 Yujie Yang, Hanjiang Hu, Tianhao Wei, Shengbo Eben Li, Changliu Liu\
 *Preprint*, 2024\
-[paper](https://arxiv.org/abs/2407.20532)\
+[paper](https://arxiv.org/abs/2407.20532) |
 [code](https://github.com/intelligent-control-lab/Cersyve.jl)
+
+**Verification of Neural Control Barrier Functions with Symbolic Derivative Bounds Propagation**\
+Hanjiang Hu, Yujie Yang, Tianhao Wei, Changliu Liu\
+*Conference on Robot Learning (CoRL)*, 2024\
+[paper](https://arxiv.org/abs/2410.16281) |
+[code](https://github.com/intelligent-control-lab/verify-neural-CBF)
 
 **CIDC: A Flexible Formation Control Framework for Intelligent Connected Vehicles**\
 Jiaxin Gao, Shaosong Li, Yao Lyu, Yuxuan Jiang, Guojian Zhan, Yujie Yang, Yuming Yin, Mingming Wang, Shengbo Eben Li\
@@ -46,8 +52,9 @@ Shentao Qin\*, Yujie Yang\*, Yao Mu\*, Jie Li, Wenjun Zou, Shengbo Eben Li, Jing
 
 **Controllability Test for Nonlinear Datatic Systems**\
 Yujie Yang\*, Letian Tao\*, Likun Wang, Shengbo Eben Li\
-*Preprint*, 2024\
-[paper](https://arxiv.org/abs/2405.09317)
+*Communications in Transportation Research*, 2024\
+[paper](https://www.sciencedirect.com/science/article/pii/S277242472400026X) |
+[code](https://github.com/tlt18/epsilon-controllability)
 
 **The Feasibility of Constrained Reinforcement Learning Algorithms: A Tutorial Study**\
 Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li, Masayoshi Tomizuka, Changliu Liu\
