@@ -23,11 +23,22 @@ Yujie Yang, Hanjiang Hu, Tianhao Wei, Shengbo Eben Li, Changliu Liu\
 [paper](https://arxiv.org/abs/2407.20532) |
 [code](https://github.com/intelligent-control-lab/Cersyve.jl)
 
+**Controllability Test for Nonlinear Datatic Systems**\
+Yujie Yang\*, Letian Tao\*, Likun Wang, Shengbo Eben Li\
+*Communications in Transportation Research*, 2024\
+[paper](https://www.sciencedirect.com/science/article/pii/S277242472400026X) |
+[code](https://github.com/tlt18/epsilon-controllability)
+
 **Verification of Neural Control Barrier Functions with Symbolic Derivative Bounds Propagation**\
 Hanjiang Hu, Yujie Yang, Tianhao Wei, Changliu Liu\
 *Conference on Robot Learning (CoRL)*, 2024\
 [paper](https://arxiv.org/abs/2410.16281) |
 [code](https://github.com/intelligent-control-lab/verify-neural-CBF)
+
+**Data-Driven Safe Learning and Control with Safety Certificates**\
+Haitong Ma, Yujie Yang, Wenjun Zou, Guojian Zhan, Zhilong Zheng, Jingliang Duan, Bin Shuai, Chen Chen, Shengbo Eben Li\
+*Reference Module in Materials Science and Materials Engineering*, 2024\
+[paper](https://doi.org/10.1016/B978-0-443-14081-5.00043-X)
 
 **CIDC: A Flexible Formation Control Framework for Intelligent Connected Vehicles**\
 Jiaxin Gao, Shaosong Li, Yao Lyu, Yuxuan Jiang, Guojian Zhan, Yujie Yang, Yuming Yin, Mingming Wang, Shengbo Eben Li\
@@ -49,12 +60,6 @@ Yuxuan Jiang, Yujie Yang, Zhiqian Lan, Guojian Zhan, Shengbo Eben Li, Qi Sun, Ji
 Shentao Qin\*, Yujie Yang\*, Yao Mu\*, Jie Li, Wenjun Zou, Shengbo Eben Li, Jingliang Duan\
 *International Conference on Machine Learning (ICML)*, 2024\
 [paper](https://openreview.net/forum?id=ks8qSwkkuZ)
-
-**Controllability Test for Nonlinear Datatic Systems**\
-Yujie Yang\*, Letian Tao\*, Likun Wang, Shengbo Eben Li\
-*Communications in Transportation Research*, 2024\
-[paper](https://www.sciencedirect.com/science/article/pii/S277242472400026X) |
-[code](https://github.com/tlt18/epsilon-controllability)
 
 **The Feasibility of Constrained Reinforcement Learning Algorithms: A Tutorial Study**\
 Yujie Yang\*, Zhilong Zheng\*, Shengbo Eben Li, Masayoshi Tomizuka, Changliu Liu\
