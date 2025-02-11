@@ -17,6 +17,10 @@ author_profile: true
 {% endfor %}
 -->
 
+**Feasible Policy Iteration with Guaranteed Safe Exploration**\
+ Yuhang Zhang\*, Yujie Yang\*, Shengbo Eben Li, Yao Lyu, Jingliang Duan, Zhilong Zheng, Dezhao Zhang\
+ *IEEE Transactions on Cybernetics*, 2025
+
 **Scalable Synthesis of Formally Verified Neural Value Function for Hamilton-Jacobi Reachability Analysis**\
 Yujie Yang, Hanjiang Hu, Tianhao Wei, Shengbo Eben Li, Changliu Liu\
 *Preprint*, 2024\
