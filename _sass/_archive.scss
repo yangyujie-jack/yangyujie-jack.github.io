@@ -256,7 +256,7 @@
   }
 }
 .archive__item-teaser.flex-teaser {
-  flex: 0 0 250px;
+  flex: 0 0 160px;
   margin-right: 20px;
   max-width: 100%;
 }
@@ -264,10 +264,15 @@
   .archive__item-teaser.flex-teaser {
     margin-right: 0;
     margin-bottom: 1em;
+    flex: 0 0 120px;
   }
 }
 .archive__item-body.flex-body {
   flex: 1;
   min-width: 0;
   word-break: break-word;
+  
+  .archive__item-title {
+    font-size: $type-size-4;
+  }
 }
