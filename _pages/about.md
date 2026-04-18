@@ -12,12 +12,12 @@ I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsing
 
 <h2 id="news">News</h2>
 <ul>
-{% for post in site.posts limit:10 %}
-  <li><strong>{{ post.date | date: "%Y.%m" }}</strong> &nbsp; {{ post.title }}</li>
-{% endfor %}
+  <li><strong>2026.04</strong> &nbsp; One sentence about what happened recently.</li>
+  <li><strong>2026.03</strong> &nbsp; Another short sentence about recent news.</li>
 </ul>
 
 <h2 id="publications">Publications</h2>
+<p>(* equal contributions)</p>
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
