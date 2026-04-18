@@ -1,5 +1,5 @@
 ---
-title: "Belief state separated reinforcement learning for autonomous vehicle decision making under uncertainty"
+title: "Belief State Separated Reinforcement Learning for Autonomous Vehicle Decision Making Under Uncertainty"
 collection: publications
 permalink: /publication/2021-03-07-belief-state-separated-reinforcement-learning
 date: 2021-03-07

@@ -1,5 +1,5 @@
 ---
-title: "Learning pomdp models with similarity space regularization: A linear gaussian case study"
+title: "Learning POMDP Models with Similarity Space Regularization: A Linear Gaussian Case Study"
 collection: publications
 permalink: /publication/2022-11-15-learning-pomdp-models-with-similarity
 date: 2022-11-15

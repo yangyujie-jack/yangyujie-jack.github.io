@@ -1,5 +1,5 @@
 ---
-title: "On the Equilibrium between Feasible Zone and Uncertain Model in Safe Exploration"
+title: "On the Equilibrium Between Feasible Zone and Uncertain Model in Safe Exploration"
 collection: publications
 permalink: /publication/2026-02-18-safe-exploration
 excerpt: '(* equal contributions). This paper discusses the equilibrium between feasible zone and uncertain model...'

@@ -1,5 +1,5 @@
 ---
-title: "GOPS: A general optimal control problem solver for autonomous driving and industrial control applications"
+title: "GOPS: A General Optimal Control Problem Solver for Autonomous Driving and Industrial Control Applications"
 collection: publications
 permalink: /publication/2023-12-04-gops-a-general-optimal-control
 date: 2023-12-04

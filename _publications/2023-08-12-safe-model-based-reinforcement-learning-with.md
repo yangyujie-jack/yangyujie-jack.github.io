@@ -1,5 +1,5 @@
 ---
-title: "Safe Model-Based Reinforcement Learning With an Uncertainty-Aware Reachability Certificate"
+title: "Safe Model-Based Reinforcement Learning with an Uncertainty-Aware Reachability Certificate"
 collection: publications
 permalink: /publication/2023-08-12-safe-model-based-reinforcement-learning-with
 date: 2023-08-12

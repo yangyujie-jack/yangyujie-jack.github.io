@@ -1,5 +1,5 @@
 ---
-title: "Model-free safe reinforcement learning through neural barrier certificate"
+title: "Model-Free Safe Reinforcement Learning through Neural Barrier Certificate"
 collection: publications
 permalink: /publication/2023-01-17-model-free-safe-reinforcement-learning-through
 date: 2023-01-17

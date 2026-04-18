@@ -1,5 +1,5 @@
 ---
-title: "Breaking safety paradox with feasible dual policy iteration"
+title: "Breaking Safety Paradox with Feasible Dual Policy Iteration"
 collection: publications
 permalink: /publication/2026-05-21-breaking-safety-paradox-with-feasible
 date: 2026-05-21

@@ -1,5 +1,5 @@
 ---
-title: "Synthesizing Control Barrier Functions With Feasible Region Iteration for Safe Reinforcement Learning"
+title: "Synthesizing Control Barrier Functions with Feasible Region Iteration for Safe Reinforcement Learning"
 collection: publications
 permalink: /publication/2023-06-22-synthesizing-control-barrier-functions-with
 date: 2023-06-22
