@@ -25,8 +25,8 @@ author:
   name             : "Yujie Yang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student at Tsinghua University"
-  location         : "Beijing, China"
-  employer         : "Tsinghua University"
+#   location         : ""
+#   employer         : ""
   uri              : # URL
   email            : "yangyj21@mails.tsinghua.edu.cn" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=2T7-s0MAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-7222-0019"
+#   orcid            : ""
   pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Yujie-Yang-14"
 
