@@ -13,26 +13,27 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="display: flex; flex-direction: row; align-items: flex-start; margin-bottom: 2em;">
+    {% if teaser %}
+      <div class="archive__item-teaser" style="flex: 0 0 250px; margin-right: 20px;">
         <img src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
             "{{ teaser | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
-          alt="">
+          alt="" style="width: 100%; border-radius: 5px;">
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
+    <div class="archive__item-body" style="flex: 1;">
+      <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h2>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -59,6 +60,8 @@
     {% elsif post.paperurl %}
       <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
     {% endif %}
+
+    </div>
 
   </article>
 </div>
