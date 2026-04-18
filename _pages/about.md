@@ -12,8 +12,8 @@ I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsing
 
 <h2 id="news">News</h2>
 <ul>
-  <li><strong>2026.02</strong> &nbsp; <a href="https://ieeexplore.ieee.org/document/11419867">SEE</a> accepted by IEEE T-PAMI</li>
-  <li><strong>2026.01</strong> &nbsp; <a href="https://openreview.net/forum?id=BHSSV1nHvU">FDPI</a> accepted by ICLR 2026</li>
+  <li><strong>2026.02</strong> &nbsp; Our paper: <a href="https://ieeexplore.ieee.org/document/11419867">On the Equilibrium between Feasible Zone and Uncertain Model in Safe Exploration</a> is accepted by IEEE T-PAMI!</li>
+  <li><strong>2026.01</strong> &nbsp; Our paper: <a href="https://openreview.net/forum?id=BHSSV1nHvU">Breaking safety paradox with feasible dual policy iteration</a> is accepted by ICLR 2026!</li>
 </ul>
 
 <h2 id="publications">Publications</h2>
@@ -23,9 +23,9 @@ I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsing
   {% include archive-single.html %}
 {% endfor %}
 
+<!--
 <h2 id="talks">Talks</h2>
 
-<!--
 <h2 id="teaching">Teaching</h2>
 {% for post in site.teaching %}
   {% include archive-single.html %}
