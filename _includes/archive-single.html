@@ -28,7 +28,9 @@
 
     <div class="archive__item-body flex-body">
       <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
-        {% if post.link %}
+        {% if post.collection == 'publications' %}
+          {{ title }}
+        {% elsif post.link %}
           <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
@@ -42,7 +44,10 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if post.authors %}
+            <p style="margin-bottom: 0.25em;">{{ post.authors }}</p>
+          {% endif %}
+          <p style="margin-top: 0; margin-bottom: 0.5em;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -53,12 +58,21 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
+    {% if post.collection == 'publications' %}
+      <p style="margin-top: 0.5em;">
+        {% if post.paperurl %}<a href="{{ post.paperurl }}">[paper]</a>{% endif %}
+        {% if post.website %}&nbsp;|&nbsp;<a href="{{ post.website }}">[website]</a>{% endif %}
+        {% if post.codeurl %}&nbsp;|&nbsp;<a href="{{ post.codeurl }}">[code]</a>{% endif %}
+        {% if post.code %}&nbsp;|&nbsp;<a href="{{ post.code }}">[code]</a>{% endif %}
+      </p>
+    {% else %}
+      {% if post.citation and post.paperurl %}
+        <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
+      {% elsif post.citation %}
+        <p>Recommended citation: {{ post.citation }} </p>
+      {% elsif post.paperurl %}
+        <p class="wordwrap">Download <a href=" {{ post.paperurl }} ">here</a></p>
+      {% endif %}
     {% endif %}
 
     </div>
