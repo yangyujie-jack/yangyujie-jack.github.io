@@ -3,7 +3,8 @@ title: "Verifiable Safety Q-Filters via Hamilton-Jacobi Reachability and Multipl
 collection: publications
 permalink: /publication/2025-07-11-verifiable-safety-q-filters-via-hamilton-jacobi
 date: 2025-07-11
-venue: "IEEE Control Systems Letters L-CSS"
+collection_order: 17
+venue: "*IEEE Control Systems Letters* (**L-CSS**)"
 authors: "Jiaxing Li*, Hanjiang Hu*, **Yujie Yang***, Changliu Liu"
 paperurl: "https://ieeexplore.ieee.org/document/11157757"
 ---

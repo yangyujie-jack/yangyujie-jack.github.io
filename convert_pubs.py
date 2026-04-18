@@ -27,7 +27,8 @@ for i, e in enumerate(entries):
     matches = re.findall(r'\d{4}', venue_line)
     year = matches[-1] if matches else '2000'
     venue = venue_line.replace(f', {year}', '')
-    venue = venue.replace('*', '').replace('(', ' ').replace(')', '').replace('  ', ' ').strip()
+    venue = re.sub(r',?$', '', venue.strip()).replace('"', '\\"')
+    venue = re.sub(r'\*([^*(]+?)\s*\(([^)]+)\)\s*\*', r'*\1* (**\2**)', venue)
     
     paperurl = ''
     codeurl = ''
@@ -58,9 +59,15 @@ for i, e in enumerate(entries):
         'collection: publications',
         f'permalink: /publication/{date_str}-{slug}',
         f'date: {date_str}',
+        f'collection_order: {i}',
         f'venue: "{venue}"',
         f'authors: "{authors}"',
     ]
+    if "On the Equilibrium between Feasible Zone and Uncertain Model in Safe Exploration" in title:
+        front_matter.extend([
+            'header:',
+            '  teaser: "pub_safe_exploration.png"'
+        ])
     if paperurl: front_matter.append(f'paperurl: "{paperurl}"')
     if website: front_matter.append(f'website: "{website}"')
     if codeurl: front_matter.append(f'codeurl: "{codeurl}"')

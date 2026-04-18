@@ -18,7 +18,8 @@ I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsing
 
 <h2 id="publications">Publications</h2>
 <p>(* equal contributions)</p>
-{% for post in site.publications reversed %}
+{% assign sorted_pubs = site.publications | sort: 'collection_order' %}
+{% for post in sorted_pubs %}
   {% include archive-single.html %}
 {% endfor %}
 
