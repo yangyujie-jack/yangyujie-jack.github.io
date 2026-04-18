@@ -65,9 +65,9 @@
 
         {% assign links = "" | split: "," %}
         {% if post.paperurl %}{% capture link %}<a href="{{ post.paperurl }}" style="text-decoration: none;">Paper</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
-        {% if post.website %}{% capture link %}<a href="{{ post.website }}" style="text-decoration: none;">Website</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
         {% if post.codeurl %}{% capture link %}<a href="{{ post.codeurl }}" style="text-decoration: none;">Code</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
         {% if post.code %}{% capture link %}<a href="{{ post.code }}" style="text-decoration: none;">Code</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
+        {% if post.website %}{% capture link %}<a href="{{ post.website }}" style="text-decoration: none;">Website</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
         {{ links | join: " &nbsp;|&nbsp; " }}
       </p>
     {% else %}
