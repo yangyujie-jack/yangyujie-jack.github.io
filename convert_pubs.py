@@ -48,7 +48,9 @@ for i, e in enumerate(entries):
     slug = re.sub(r'[^a-z0-9]', '-', slug)
     slug = re.sub(r'-+', '-', slug).strip('-')
     
-    date_str = f"{year}-{i+1:02d}-01"
+    month_val = 12 - (i % 12)
+    day_val = 28 - (i % 28)
+    date_str = f"{year}-{month_val:02d}-{day_val:02d}"
 
     front_matter = [
         '---',
