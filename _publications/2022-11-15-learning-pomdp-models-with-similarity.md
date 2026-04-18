@@ -7,4 +7,6 @@ collection_order: 90
 venue: "Learning for Dynamics and Control Conference (**L4DC**)"
 authors: "**Yujie Yang**, Jianyu Chen, Shengbo Eben Li"
 paperurl: "https://proceedings.mlr.press/v168/yang22a.html"
+header:
+  teaser: "pub_SimReg.png"
 ---

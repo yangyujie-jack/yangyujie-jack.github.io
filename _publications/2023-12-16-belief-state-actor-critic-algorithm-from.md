@@ -7,4 +7,6 @@ collection_order: 80
 venue: "American Control Conference (**ACC**)"
 authors: "**Yujie Yang**, Yuxuan Jiang, Jianyu Chen, Shengbo Eben Li, Ziqing Gu, Yuming Yin, Qian Zhang, Kai Yu"
 paperurl: "https://ieeexplore.ieee.org/document/10155792"
+header:
+  teaser: "pub_separation.png"
 ---

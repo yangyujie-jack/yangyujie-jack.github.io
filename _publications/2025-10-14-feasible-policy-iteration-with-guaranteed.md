@@ -7,4 +7,6 @@ collection_order: 100
 venue: "IEEE Transactions on Cybernetics (**T-CYB**)"
 authors: "Yuhang Zhang*, **Yujie Yang***, Shengbo Eben Li, Yao Lyu, Jingliang Duan, Zhilong Zheng, Dezhao Zhang"
 paperurl: "https://ieeexplore.ieee.org/document/10931147"
+header:
+  teaser: "pub_FPIS.png"
 ---
