@@ -7,4 +7,5 @@ collection_order: 19
 venue: "*Conference on Robot Learning* (**CoRL**)"
 authors: "Hanjiang Hu, **Yujie Yang**, Tianhao Wei, Changliu Liu"
 paperurl: "https://arxiv.org/abs/2410.16281"
+codeurl: "https://github.com/intelligent-control-lab/verify-neural-CBF"
 ---

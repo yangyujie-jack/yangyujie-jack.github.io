@@ -7,4 +7,6 @@ collection_order: 24
 venue: "*Communications in Transportation Research*"
 authors: "Wenxuan Wang, Yuhang Zhang, Jiaxin Gao, Yuxuan Jiang, **Yujie Yang**, Zhilong Zheng, Wenjun Zou, Jie Li, Congsheng Zhang, Wenhan Cao, Genjin Xie, Jingliang Duan, Shengbo Eben Li"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S2772424723000070"
+website: "https://gops.readthedocs.io/"
+codeurl: "https://github.com/Intelligent-Driving-Laboratory/GOPS"
 ---

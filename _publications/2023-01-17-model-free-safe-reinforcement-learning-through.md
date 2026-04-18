@@ -7,4 +7,6 @@ collection_order: 11
 venue: "*IEEE Robotics and Automation Letters* (**RA-L**)"
 authors: "**Yujie Yang***, Yuxuan Jiang*, Yichen Liu, Jianyu Chen, Shengbo Eben Li"
 paperurl: "https://ieeexplore.ieee.org/document/10023989"
+website: "https://jjyyxx.github.io/srlnbc/"
+codeurl: "https://github.com/jjyyxx/srlnbc"
 ---

@@ -34,7 +34,7 @@ for i, e in enumerate(entries):
     codeurl = ''
     website = ''
     if len(lines) > 3:
-        links = lines[3]
+        links = ' '.join(lines[3:])
         if '[paper]' in links:
             m = re.search(r'\[paper\]\((.*?)\)', links)
             if m: paperurl = m.group(1)
