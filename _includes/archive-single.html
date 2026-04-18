@@ -1,4 +1,4 @@
-{% include base_path %}
+﻿{% include base_path %}
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -45,7 +45,7 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.authors %}
-            <p style="margin-bottom: 0.25em;">{{ post.authors }}</p>
+            <p style="margin-bottom: 0.25em;">{{ post.authors | replace: 'Yujie Yang', '<strong>Yujie Yang</strong>' | replace: '**', '' }}</p>
           {% endif %}
           <p style="margin-top: 0; margin-bottom: 0.5em;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
@@ -62,12 +62,12 @@
     
     {% if post.collection == 'publications' %}
       <p style="margin-top: 0.5em;">
-        获取： 
+
         {% assign links = "" | split: "," %}
-        {% if post.paperurl %}{% capture link %}<a href="{{ post.paperurl }}" style="text-decoration: none;">paper</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
-        {% if post.website %}{% capture link %}<a href="{{ post.website }}" style="text-decoration: none;">website</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
-        {% if post.codeurl %}{% capture link %}<a href="{{ post.codeurl }}" style="text-decoration: none;">code</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
-        {% if post.code %}{% capture link %}<a href="{{ post.code }}" style="text-decoration: none;">code</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
+        {% if post.paperurl %}{% capture link %}<a href="{{ post.paperurl }}" style="text-decoration: none;">Paper</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
+        {% if post.website %}{% capture link %}<a href="{{ post.website }}" style="text-decoration: none;">Website</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
+        {% if post.codeurl %}{% capture link %}<a href="{{ post.codeurl }}" style="text-decoration: none;">Code</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
+        {% if post.code %}{% capture link %}<a href="{{ post.code }}" style="text-decoration: none;">Code</a>{% endcapture %}{% assign links = links | push: link %}{% endif %}
         {{ links | join: " &nbsp;|&nbsp; " }}
       </p>
     {% else %}
