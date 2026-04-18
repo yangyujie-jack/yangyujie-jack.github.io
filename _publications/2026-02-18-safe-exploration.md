@@ -6,7 +6,7 @@ excerpt: '(* equal contributions). This paper discusses the equilibrium between 
 date: 2026-02-18
 collection_order: -1
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)"
-paperurl: 'https://arxiv.org/abs/2602.00636'
+paperurl: 'https://ieeexplore.ieee.org/document/11419867'
 authors: 'Yujie Yang*, Zhilong Zheng*, Shengbo Eben Li'
 header:
   teaser: "pub_safe_exploration.png"

@@ -7,4 +7,6 @@ collection_order: 7
 venue: "International Conference on Learning Representations (**ICLR**)"
 authors: "**Yujie Yang***, Jinglin Teh*, Ziyu Lin, Kaicheng Yu, Tao Zhang, Shengbo Eben Li"
 paperurl: "https://openreview.net/forum?id=BHSSV1nHvU"
+header:
+  teaser: "pub_FDPI.png"
 ---

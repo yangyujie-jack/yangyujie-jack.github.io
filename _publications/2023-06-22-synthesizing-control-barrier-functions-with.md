@@ -9,4 +9,6 @@ authors: "**Yujie Yang**, Yuhang Zhang, Wenjun Zou, Jianyu Chen, Yuming Yin, She
 paperurl: "https://ieeexplore.ieee.org/document/10328440"
 website: "https://yangyujie-jack.github.io/Feasible-Region-Iteration/"
 codeurl: "https://github.com/yangyujie-jack/Feasible-Region-Iteration"
+header:
+  teaser: "pub_FRI.png"
 ---
