@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-10-14-feasible-policy-iteration-with-guaranteed
 date: 2025-10-14
 collection_order: 14
-venue: "*IEEE Transactions on Cybernetics* (**T-CYB**)"
+venue: "IEEE Transactions on Cybernetics (**T-CYB**)"
 authors: "Yuhang Zhang*, **Yujie Yang***, Shengbo Eben Li, Yao Lyu, Jingliang Duan, Zhilong Zheng, Dezhao Zhang"
 paperurl: "https://ieeexplore.ieee.org/document/10931147"
 ---

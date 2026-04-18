@@ -28,7 +28,8 @@ for i, e in enumerate(entries):
     year = matches[-1] if matches else '2000'
     venue = venue_line.replace(f', {year}', '')
     venue = re.sub(r',?$', '', venue.strip()).replace('"', '\\"')
-    venue = re.sub(r'\*([^*(]+?)\s*\(([^)]+)\)\s*\*', r'*\1* (**\2**)', venue)
+    venue = venue.replace('*', '')
+    venue = re.sub(r'\((.*?)\)', r'(**\1**)', venue)
     
     paperurl = ''
     codeurl = ''

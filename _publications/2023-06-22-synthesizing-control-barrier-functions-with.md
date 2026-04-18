@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-06-22-synthesizing-control-barrier-functions-with
 date: 2023-06-22
 collection_order: 6
-venue: "*IEEE Transactions on Automatic Control* (**T-AC**)"
+venue: "IEEE Transactions on Automatic Control (**T-AC**)"
 authors: "**Yujie Yang**, Yuhang Zhang, Wenjun Zou, Jianyu Chen, Yuming Yin, Shengbo Eben Li"
 paperurl: "https://ieeexplore.ieee.org/document/10328440"
 website: "https://yangyujie-jack.github.io/Feasible-Region-Iteration/"
