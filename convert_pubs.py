@@ -60,7 +60,7 @@ for i, e in enumerate(entries):
         'collection: publications',
         f'permalink: /publication/{date_str}-{slug}',
         f'date: {date_str}',
-        f'collection_order: {i}',
+        f'collection_order: {(i + 1) * 10}',
         f'venue: "{venue}"',
         f'authors: "{authors}"',
     ]
