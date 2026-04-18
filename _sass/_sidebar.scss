@@ -14,10 +14,16 @@
   margin-bottom: 1em;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 100vh;
+    height: calc(100vh - 1em);
     overflow-y: auto;               // Add scrollbar if the sidebar is too long
     position: fixed;
     padding-top: $masthead-height;
+    
+    // Hide the scrollbar track so it doesn't take up width and look ugly
+    &::-webkit-scrollbar {
+      width: 0px;
+      background: transparent;
+    }
   }
 
   @include breakpoint($large) {

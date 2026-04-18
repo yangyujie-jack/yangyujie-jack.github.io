@@ -243,3 +243,31 @@
     }
   }
 }
+/* Flex layout for archive items added */
+.archive__item.flex-layout {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-bottom: 2em;
+}
+@media (max-width: 768px) {
+  .archive__item.flex-layout {
+    flex-direction: column;
+  }
+}
+.archive__item-teaser.flex-teaser {
+  flex: 0 0 250px;
+  margin-right: 20px;
+  max-width: 100%;
+}
+@media (max-width: 768px) {
+  .archive__item-teaser.flex-teaser {
+    margin-right: 0;
+    margin-bottom: 1em;
+  }
+}
+.archive__item-body.flex-body {
+  flex: 1;
+  min-width: 0;
+  word-break: break-word;
+}
