@@ -12,8 +12,8 @@ I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsing
 
 <h2 id="news">News</h2>
 <ul>
-  <li><strong>2026.04</strong> &nbsp; One sentence about what happened recently.</li>
-  <li><strong>2026.03</strong> &nbsp; Another short sentence about recent news.</li>
+  <li><strong>2026.02</strong> &nbsp; [SEE](https://ieeexplore.ieee.org/document/11419867) accepted by IEEE T-PAMI</li>
+  <li><strong>2026.01</strong> &nbsp; [FDPI](https://openreview.net/forum?id=BHSSV1nHvU) accepted by ICLR 2026</li>
 </ul>
 
 <h2 id="publications">Publications</h2>
