@@ -6,5 +6,7 @@ date: 2024-02-06
 collection_order: 180
 venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)"
 authors: "Zeyang Li, Chuxiong Hu, Yunan Wang, **Yujie Yang**, Shengbo Eben Li"
-paperurl: "https://arxiv.org/abs/2309.06835"
+paperurl: "https://ieeexplore.ieee.org/document/10637743"
+header:
+  teaser: "pub_robust_safe_RL.png"
 ---

@@ -7,4 +7,6 @@ collection_order: 140
 venue: "IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS, Oral**)"
 authors: "Yuxuan Jiang, **Yujie Yang**, Zhiqian Lan, Guojian Zhan, Shengbo Eben Li, Qi Sun, Jian Ma, Tianwen Yu, Changwu Zhang"
 paperurl: "https://arxiv.org/abs/2407.15083"
+header:
+  teaser: "pub_rocket_landing.png"
 ---

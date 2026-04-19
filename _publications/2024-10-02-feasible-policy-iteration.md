@@ -1,5 +1,5 @@
 ---
-title: "Feasible Policy Iteration"
+title: "Feasible Policy Iteration for Safe Reinforcement Learning"
 collection: publications
 permalink: /publication/2024-10-02-feasible-policy-iteration
 date: 2024-10-02

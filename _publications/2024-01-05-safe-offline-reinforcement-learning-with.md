@@ -9,4 +9,6 @@ authors: "Yinan Zheng*, Jianxiong Li*, Dongjie Yu, **Yujie Yang**, Shengbo Eben 
 paperurl: "https://arxiv.org/abs/2401.10700"
 website: "https://zhengyinan-air.github.io/FISOR/"
 codeurl: "https://github.com/ZhengYinan-AIR/FISOR"
+header:
+  teaser: "pub_FISOR.png"
 ---
