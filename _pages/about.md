@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsinghua.com/thulab/labweb/), School of Vehicle and Mobility, Tsinghua University, where I am fortunate to be advised by Prof. [Shengbo Eben Li](http://www.svm.tsinghua.edu.cn/essay/80/1812.html) and Prof. [Bo Cheng](http://www.svm.tsinghua.edu.cn/essay/80/1799.html). Prior to that, I received my B.E. degree in Vehicle Engineering from the School of Vehicle and Mobility, Tsinghua University in 2021. My research interests include decision and control of autonomous vehicles and safe reinforcement learning.
+I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsinghua.com/thulab/labweb/), School of Vehicle and Mobility, Tsinghua University, where I am fortunate to be advised by Prof. [Shengbo Eben Li](http://www.svm.tsinghua.edu.cn/essay/80/1812.html) and Prof. [Bo Cheng](http://www.svm.tsinghua.edu.cn/essay/80/1799.html). During my Ph.D., I spent wonderful time as a visiting student at Carnegie Mellon University, working with Prof. [Changliu Liu](https://icontrol.ri.cmu.edu/people/changliu.html). Prior to that, I received my B.E. degree from the School of Vehicle and Mobility, Tsinghua University in 2021.
+
+<h2 id="research">Research Interests</h2>
+My research lies in safe reinforcement learning theories, algorithms, and applications to autonomous driving and robotics.
 
 <h2 id="news">News</h2>
 <ul>
@@ -16,8 +19,9 @@ I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsing
   <li><strong>2026.01</strong> &nbsp; Our paper: <a href="https://openreview.net/forum?id=BHSSV1nHvU">Breaking safety paradox with feasible dual policy iteration</a> is accepted by ICLR 2026!</li>
 </ul>
 
-<h2 id="publications">Publications</h2>
-<p>(* equal contributions)</p>
+<h2 id="publications">Selected Publications</h2>
+<p>A full list of publications can be found in my <a href="https://scholar.google.com/citations?user=2T7-s0MAAAAJ&hl=en">Google Scholar page</a>.<br>
+(* denotes equal contribution)</p>
 {% assign sorted_pubs = site.publications | sort: 'collection_order' %}
 {% for post in sorted_pubs %}
   {% include archive-single.html %}
