@@ -8,10 +8,7 @@ redirect_from:
 ---
 
 <h2 id="about">About Me</h2>
-I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsinghua.com/thulab/labweb/), School of Vehicle and Mobility, Tsinghua University, where I am fortunate to be advised by Prof. [Shengbo Eben Li](http://www.svm.tsinghua.edu.cn/essay/80/1812.html) and Prof. [Bo Cheng](http://www.svm.tsinghua.edu.cn/essay/80/1799.html). During my Ph.D., I spent wonderful time as a visiting student at Carnegie Mellon University, working with Prof. [Changliu Liu](https://icontrol.ri.cmu.edu/people/changliu.html). Prior to that, I received my B.E. degree from the School of Vehicle and Mobility, Tsinghua University in 2021.
-
-<h2 id="research">Research Interests</h2>
-My research lies in safe reinforcement learning theories, algorithms, and applications to autonomous driving and robotics.
+I am a Ph.D. student at [Intelligent Driving Lab (iDLab)](http://www.idlab-tsinghua.com/thulab/labweb/), School of Vehicle and Mobility, Tsinghua University, where I am fortunate to be advised by Prof. [Shengbo Eben Li](http://www.svm.tsinghua.edu.cn/essay/80/1812.html) and Prof. [Bo Cheng](http://www.svm.tsinghua.edu.cn/essay/80/1799.html). During my Ph.D., I spent wonderful time as a visiting student at Carnegie Mellon University, working with Prof. [Changliu Liu](https://icontrol.ri.cmu.edu/people/changliu.html). Prior to that, I received my B.E. degree from the School of Vehicle and Mobility, Tsinghua University in 2021. My research lies in safe reinforcement learning theories, algorithms, and applications to autonomous driving and robotics.
 
 <h2 id="news">News</h2>
 <ul>
