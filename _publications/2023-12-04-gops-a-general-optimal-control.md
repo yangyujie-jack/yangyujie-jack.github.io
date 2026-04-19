@@ -9,4 +9,6 @@ authors: "Wenxuan Wang, Yuhang Zhang, Jiaxin Gao, Yuxuan Jiang, **Yujie Yang**, 
 paperurl: "https://www.sciencedirect.com/science/article/pii/S2772424723000070"
 website: "https://gops.readthedocs.io/"
 codeurl: "https://github.com/Intelligent-Driving-Laboratory/GOPS"
+header:
+  teaser: "pub_GOPS.png"
 ---

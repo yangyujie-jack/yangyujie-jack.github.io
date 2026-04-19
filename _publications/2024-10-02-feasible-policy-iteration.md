@@ -7,4 +7,6 @@ collection_order: 220
 venue: "Preprint"
 authors: "**Yujie Yang***, Zhilong Zheng*, Shengbo Eben Li, Jingliang Duan, Jingjing Liu, Xianyuan Zhan, Ya-Qin Zhang"
 paperurl: "https://arxiv.org/abs/2304.08845"
+header:
+  teaser: "pub_FPI.png"
 ---

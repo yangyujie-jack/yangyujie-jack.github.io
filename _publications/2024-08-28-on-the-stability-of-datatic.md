@@ -7,4 +7,6 @@ collection_order: 240
 venue: "Preprint"
 authors: "**Yujie Yang***, Zhilong Zheng*, Shengbo Eben Li"
 paperurl: "https://arxiv.org/abs/2401.16793"
+header:
+  teaser: "pub_datatic_stability.png"
 ---
